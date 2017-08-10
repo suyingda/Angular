@@ -1,0 +1,32 @@
+@angualr/cli
+>npm install -g @angular/cli
+>ng -version
+>ng help
+>ng new my-project1
+>ng serve
+
+cnpm   npm install -g cnpm --registry=https://registry.npm.taobao.org
+
+cnpm install -g @angular/cli
+>
+
+npm uninstall =>卸载
+
+//查看当前环境下的分支   git branch --list  
+
+
+
+
+
+第一节课2017-08-11晚上19:30开始（或许向后推30分钟？我周五发起一个投票）
+
+大家请在你机器上面装好3个软件：
+Git---目前最流行的版本管理工具，大企业都用这个
+node---前端开发标配，不解释
+VSCode---目前最受前端开发者欢迎的代码编辑器
+
+如果以上3个工具你的机器上都没有，请按照以下几个链接的说明安装配置一下：
+https://damoqiongqiu.github.io/    2-安装git和小乌龟
+http://nodejs.cn/
+https://damoqiongqiu.github.io/   5-选择一款你喜欢的Markdown编辑器
+

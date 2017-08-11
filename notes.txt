@@ -30,3 +30,23 @@ https://damoqiongqiu.github.io/    2-安装git和小乌龟
 http://nodejs.cn/
 https://damoqiongqiu.github.io/   5-选择一款你喜欢的Markdown编辑器
 
+
+课程需要引用的网址
+https://en.wikipedia.org/wiki/JavaScript
+
+http://es6.ruanyifeng.com
+
+https://www.tslang.cn/docs/handbook/basic-types.html
+
+http://www.ruanyifeng.com/blog/2011/06/birth_of_javascript.html
+
+http://es6.ruanyifeng.com  
+
+https://www.tslang.cn/docs/handbook/basic-types.html
+
+http://git.oschina.net/mumu-osc/ts-demo  ts 项目
+{
+	
+}
+
+anders he

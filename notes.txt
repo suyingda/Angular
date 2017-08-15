@@ -68,4 +68,4 @@ git branch list //list为新建分支
 git branch -d list  删除分支
 git branch  --list  查看分支
 
-git  chechout templete 切换分支 
+git  checkout templete 切换分支 

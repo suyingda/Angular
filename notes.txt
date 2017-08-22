@@ -61,11 +61,4 @@ anders he
 http://git.oschina.net/mumu-osc/learn-component
 
  https://damoqiongqiu.github.io/web%E5%89%8D%E7%AB%AF/2017/08/07/angular-learning-materials.html
-
-http://fontawesome.io/   图标
-
-git branch list //list为新建分支
-git branch -d list  删除分支
-git branch  --list  查看分支
-
-git  checkout templete 切换分支 
+ 
